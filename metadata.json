@@ -1,0 +1,6 @@
+{
+  "name": "PhysioFit",
+  "description": "Train Smart. Move Better. Complete fitness training, workout planning, Indian nutrition tracking, physiotherapy mobility, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
